@@ -9,7 +9,7 @@
 <br>
 <a href="https://github.com/hamidghaffarii/-1/blob/main/README.md">1115026_01	رایانش ابری	</a>	
 <br>
-  <a href="https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture">1115280_01	امنیت پایگاه داده	</a>
+  <a href="https://github.com/hamidghaffarii/-2/blob/main/README.md">1115280_01	امنیت پایگاه داده	</a>
 <br>
 <a href="https://github.com/hamidghaffarii/.-/blob/main/README.md">1115029_02	سمينار	</a></p>
 <hr>
