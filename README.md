@@ -7,7 +7,7 @@
 <br>
 <a href="https://github.com/hamidghaffarii/-./blob/main/README.md">1115282_01	معماری کامپیوتر	</a>
 <br>
-<a href="https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering">1115026_01	رایانش ابری	</a>	
+<a href="https://github.com/hamidghaffarii/-1/blob/main/README.md">1115026_01	رایانش ابری	</a>	
 <br>
   <a href="https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture">1115280_01	امنیت پایگاه داده	</a>
 <br>
