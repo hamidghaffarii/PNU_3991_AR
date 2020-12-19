@@ -1,6 +1,25 @@
 # PNU_3991_AR
 <div dir="rtl">
   
+   <title>PNU_3991/_MSc/SoftwareArchitecture/1115280_01/19_سحر زيني وندمقدم at master · AliRazavi-edu/PNU_3991</title>
+    <meta name="description" content="Winter Semester Courses 1399/2020. Contribute to AliRazavi-edu/PNU_3991 development by creating an account on GitHub.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+  <meta name="apple-itunes-app" content="app-id=1477376905" />
+    <meta name="twitter:image:src" content="https://avatars0.githubusercontent.com/u/68209764?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="AliRazavi-edu/PNU_3991" /><meta name="twitter:description" content="Winter Semester Courses 1399/2020. Contribute to AliRazavi-edu/PNU_3991 development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/68209764?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="AliRazavi-edu/PNU_3991" /><meta property="og:url" content="https://github.com/AliRazavi-edu/PNU_3991" /><meta property="og:description" content="Winter Semester Courses 1399/2020. Contribute to AliRazavi-edu/PNU_3991 development by creating an account on GitHub." />
+
+
+
+    
+
+  <link rel="assets" href="https://github.githubassets.com/">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/69238513/ws?session=eyJ2IjoiVjMiLCJ1Ijo2OTIzODUxMywicyI6NjIwODA1NTI5LCJjIjozMDAzMDcyMDQ3LCJ0IjoxNjA4MzU5OTYyfQ==--8c455f1418f9fb4039e230d96b70604059f7f06c7650b236935e3a324106cd0a" data-refresh-url="/_alive">
+    <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+
+  
 <a id="user-content-حمید غفاری" class="anchor" aria-hidden="true" href="#حمید غفاری"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>حمید غفاری</h1>
 <ul>
   <h2><a id="user-content-فهرست-درس-ها" class="anchor" aria-hidden="true" href="#فهرست-درس-ها"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>فهرست درس ها</h2>
