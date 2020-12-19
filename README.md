@@ -1,37 +1,33 @@
-# PNU
+# PNU_3991_AR
 <div dir="rtl">
-
-# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
-# حمید غفاری
-- [PNU_3991_AR](https://github.com/hamidghaffarii/PNU_3991_AR)
-- [Resume](https://github.com/hamidghaffarii/resume-English-and-Persian) 
-- [SOP](https://github.com/hamidghaffarii/SOP)
-- [Certificates](https://github.com/hamidghaffarii/Certificates)
-- [GitHub](https://github.com/hamidghaffarii)
---------------
-## سیاهه ارزشیابی درس
-1. **فعالیت های مشترک همه دانشجویان**
-    1. ساخت اکانت گیت هاب
-    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-    3. ارائه رزومه
-    4. ارائه انگیزه نامه
-    5. ایجاد ریپازیتوری PNU_3991_AR
-    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
-    7. مشارکت در گروهای درسی
-
-2. **ها با جاوا اسکریپت paternپیاده سازی** 
-
-    - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern + Bridge pattern
-
-3.  **ارائه کتاب**
-   - هر گروه 2 فصل از کتاب ریچارد
-        
-        ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
+  
   
 
-   - **G-SA-01** : Chapter 1 + Chapter 7 
-----------------
-## گروه ها
+    
+
+<a id="user-content-حمید غفاری" class="anchor" aria-hidden="true" href="#حمید غفاری"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>حمید غفاری</h1>
+<ul>
+  <h2><a id="user-content-فهرست-درس-ها" class="anchor" aria-hidden="true" href="#فهرست-درس-ها"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>فهرست درس ها</h2>
+<p><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms#TOC">	الگوریتم پیشرفته	</a>
+<br>
+
+
+
+
+<li><a href="https://github.com/hamidghaffarii/PNU_3991/blob/main/README.md"><strong>Github Search</strong></a></li>
+</ul>
+<p><a href="#TOC"><kbd><g-emoji class="g-emoji" alias="leftwards_arrow_with_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21a9.png">↩</g-emoji></kbd></a></p>
+</details>
+<hr>
+<p><a name="user-content-groups"></a></p>
+<details>
+    <summary>گروه ها</summary>
+<h2><a id="user-content-گروه-ها" class="anchor" aria-hidden="true" href="#گروه-ها"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>گروه ها</h2>
+
+
+
+
+
 
 </ol>
 <p><a name="user-content-g-a02"></a></p>
@@ -42,6 +38,101 @@
 <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/09_%D9%85%D8%B5%D8%B7%D9%81%D9%8A%20%D8%B2%D8%A7%D8%B1%D8%B9%20%D8%AF%D8%B3%D8%AA%D9%86%D8%A7%D8%A6%D9%8A">_AdvAlg-09_مصطفي زارع دستنائي</a></li>
 <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/10_%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%B3%D9%82%D8%B1%D8%AC%D9%88%D9%82%D9%8A">_AdvAlg-10_محمود سقرجوقي</a></li>
 </ol>
-</li> 
-    
+</li>
+  
+
+
+
+</details>
+<p><a href="#TOC"><kbd><g-emoji class="g-emoji" alias="leftwards_arrow_with_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21a9.png">↩</g-emoji></kbd></a></p>
 </div>
+</article>
+      </div>
+  </div>
+
+
+
+  </div>
+</div>
+
+  
+  </div>
+
+  </div>
+
+
+
+
+
+
+</ol>
+<hr>
+<div align="center">
+<h2><a id="user-content-روز-و-ساعت-ارائه-دروس" class="anchor" aria-hidden="true" href="#روز-و-ساعت-ارائه-دروس"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>روز و ساعت ارائه دروس</h2>
+</div>
+<div dir="ltr">
+  
+  <table>
+  <tbody><tr>
+    <th>16-18</th>
+    <th>14-16</th>
+    <th>12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th>مطالعه دروس </th>
+    <th> </th>
+    <th> </th>
+    <th></th>
+    <th> </th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th>مطالعه دروس</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th> </th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th> مطالعه دروس </th>
+     <th> </th>
+     <th> </th>
+    <th></th> 
+    <th></th>
+  <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th>مطالعه دروس</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>سه شنبه</th>
+  </tr>
+     <tr>
+    <th></th>
+     <th><a href="https://github.com/hamidghaffarii/-./blob/main/README.md">	معماری کامپیوتر	</a> </th>
+     <th><a href="https://github.com/hamidghaffarii/-1/blob/main/README.md">	رایانش ابری	</a></th>
+     <th> <a href="https://github.com/hamidghaffarii/-2/blob/main/README.md">	امنیت پایگاه داده	</a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms#TOC">	الگوریتم پیشرفته	</a></th>
+    <th>چهارشنبه</th>
+  </tr>
+    
+   <tr>
+    <th>مطالعه دروس</th>
+    <th></th>
+    <th></th>
+    <th></th>
+     <th> </th>
+    <th>پنج شنبه</th>
+  </tr>
+  
+</tbody></table>
+</div>
+</div></article>
+      </div>
+  </div>
