@@ -5,7 +5,6 @@
  
 ---
 - [github](https://github.com/bahssanbeygi)
-- [PNU_3991_AR](https://github.com/bahssanbeygi/PNU_3991_AR)
 - [resume](https://github.com/hamidghaffarii/resume-English-and-Persian)
 - [SOP](https://github.com/hamidghaffarii/SOP) 
 - [javascript Certificate](https://github.com/hamidghaffarii/Certificates)
