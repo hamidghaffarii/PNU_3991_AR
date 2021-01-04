@@ -2,6 +2,7 @@
 ---------
 ### حمید غفاری
  
+ 
 ---
 - [github](https://github.com/bahssanbeygi)
 - [PNU_3991_AR](https://github.com/bahssanbeygi/PNU_3991_AR)
@@ -128,7 +129,6 @@
     <th></th>
     <th>سه شنبه</th>
   </tr>
-   
      <tr>
     <th></th>
      <th><a href="https://github.com/hamidghaffarii/-./blob/main/README.md">	معماری کامپیوتر	</a> </th>
@@ -136,8 +136,8 @@
      <th> <a href="https://github.com/hamidghaffarii/-2/blob/main/README.md">	امنیت پایگاه داده	</a></th>
     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms#TOC">	الگوریتم پیشرفته	</a></th>
     <th>چهارشنبه</th>
-    
   </tr>
+    
    <tr>
     <th>مطالعه دروس</th>
     <th></th>
