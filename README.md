@@ -1,6 +1,21 @@
 # PNU_3991_AR
-<div dir="rtl">
-  
+---------
+### حمید غفاری
+ 
+---
+- [github](https://github.com/bahssanbeygi)
+- [PNU_3991_AR](https://github.com/bahssanbeygi/PNU_3991_AR)
+- [resume](https://github.com/hamidghaffarii/resume-English-and-Persian)
+- [SOP](https://github.com/hamidghaffarii/SOP) 
+- [javascript Certificate](https://github.com/hamidghaffarii/Certificates)
+- [jlord patchwork](https://github.com/hamidghaffarii/Certificates/blob/main/ersal4.jpg)
+------------------
+
+# تمرین ها
+1. [G-A03]
+    1. [Edmonds-karp]
+    1. [Binary search tree](https://www.aparat.com/v/mE1XP)
+    1. [Ford-fulkerson](https://github.com/bahssanbeygi/ford-fulkerson)
   
 
     
