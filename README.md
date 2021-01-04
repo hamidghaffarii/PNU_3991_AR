@@ -12,10 +12,10 @@
 ------------------
 
 # تمرین ها
-1. [G-A03]
-    1. [Edmonds-karp]
-    1. [Binary search tree](https://www.aparat.com/v/mE1XP)
-    1. [Ford-fulkerson](https://github.com/bahssanbeygi/ford-fulkerson)
+1. [G-A02]
+    1. [ّFibonacci Heaps](https://www.aparat.com/v/ruUwZ)
+    1. [Binary search tree](https://www.aparat.com/v/lyB7k)
+    1. [Ford-fulkerson]
   
 
     
