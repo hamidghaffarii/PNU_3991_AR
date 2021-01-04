@@ -128,6 +128,7 @@
     <th></th>
     <th>سه شنبه</th>
   </tr>
+   
      <tr>
     <th></th>
      <th><a href="https://github.com/hamidghaffarii/-./blob/main/README.md">	معماری کامپیوتر	</a> </th>
