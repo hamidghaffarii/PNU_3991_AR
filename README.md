@@ -136,8 +136,8 @@
      <th> <a href="https://github.com/hamidghaffarii/-2/blob/main/README.md">	امنیت پایگاه داده	</a></th>
     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms#TOC">	الگوریتم پیشرفته	</a></th>
     <th>چهارشنبه</th>
-  </tr>
     
+  </tr>
    <tr>
     <th>مطالعه دروس</th>
     <th></th>
