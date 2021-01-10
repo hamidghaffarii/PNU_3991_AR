@@ -10,6 +10,11 @@
 - [javascript Certificate](https://github.com/hamidghaffarii/Certificates)
 - [jlord patchwork](https://github.com/hamidghaffarii/Certificates/blob/main/ersal4.jpg)
 ------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/hamidghaffarii/General/blob/main/XX_CV_CheckList_AR_3991%20(3).pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/hamidghaffarii/General/blob/main/XX_GeneralSection_CheckList_AR_3991%20(2).pdf)
 
 # تمرین ها
 1. [G-A02]
